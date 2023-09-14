@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "996189726945",
+    "firebase_url": "https://hiride-af4fd-default-rtdb.firebaseio.com",
+    "project_id": "hiride-af4fd",
+    "storage_bucket": "hiride-af4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996189726945:android:e338733c65de9d795aafa0",
+        "android_client_info": {
+          "package_name": "com.example.hiride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZCQ2di1ygW5oXNzD8-IpWgejJkeyoVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996189726945:android:f8619cd43fd163435aafa0",
+        "android_client_info": {
+          "package_name": "com.example.hiride_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZCQ2di1ygW5oXNzD8-IpWgejJkeyoVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
